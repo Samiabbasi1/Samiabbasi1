@@ -2,6 +2,7 @@
 <h3 align="center">A highly motivated DevOps practitioner with a robust foundation in automation, containerization, and cloud computing.</h3>
 
 - 📫 How to reach me **abdulsamiabbasi1@gmail.com**
+- 📫 You can find all my projects at **https://github.com/Samiabbasi1?tab=repositories**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
